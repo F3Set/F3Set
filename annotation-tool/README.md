@@ -1,6 +1,6 @@
-# Tennis Labelling Tool
+# $F^3Set$ Labelling Tool
 
-This tool is designed to assist in labelling doubles tennis via a Gradio Interface.
+This tool is designed to assist in labelling $F^3$ events for different applications via a Gradio Interface.
 
 ## Installation
 
