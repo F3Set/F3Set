@@ -1,0 +1,9 @@
+.row-container {
+    background-color: white;  /* Set background to white */
+    padding: 20px;             /* Optional: Add some padding */
+    border-radius: 10px;       /* Optional: Add rounded corners */
+}
+.column-container {
+    background-color: white;  /* Set background to white */
+    padding: 5px;              /* Optional: Add some padding */
+}
