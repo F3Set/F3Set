@@ -1,0 +1,589 @@
+[
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_625_739",
+    "fps": 30,
+    "num_frames": 114,
+    "events": [
+      {
+        "frame": 13,
+        "label": "near_deuce_forehand_serve_t_i-formation_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 38,
+        "label": "far_deuce_backhand_return_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 50,
+        "label": "near_ad_forehand_volley_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 84,
+        "label": "far_deuce_backhand_swing_ii_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_4563_4838",
+    "fps": 30,
+    "num_frames": 275,
+    "events": [
+      {
+        "frame": 15,
+        "label": "far_deuce_forehand_serve_t_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 35,
+        "label": "near_deuce_backhand_return_io_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 83,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 120,
+        "label": "near_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 166,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 196,
+        "label": "near_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 245,
+        "label": "far_deuce_forehand_swing_cc_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_5084_5141",
+    "fps": 25,
+    "num_frames": 57,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 17,
+        "label": "near_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 57,
+        "label": "far_ad_forehand_smash_io_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_5238_5410",
+    "fps": 25,
+    "num_frames": 172,
+    "events": [
+      {
+        "frame": 13,
+        "label": "far_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 33,
+        "label": "near_deuce_forehand_return_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 54,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 100,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 110,
+        "label": "far_deuce_backhand_volley_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 133,
+        "label": "near_deuce_forehand_smash_cc_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Purcell_ThompsonvsKrawietz_PuetzHighlights_2024US_Open_Final_6936_7226",
+    "fps": 60,
+    "num_frames": 290,
+    "events": [
+      {
+        "frame": 19,
+        "label": "far_ad_forehand_serve_t_i-formation_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 67,
+        "label": "near_ad_forehand_return_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 176,
+        "label": "far_deuce_forehand_smash_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 214,
+        "label": "near_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 253,
+        "label": "far_deuce_forehand_volley_cc_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Purcell_ThompsonvsKrawietz_PuetzHighlights_2024US_Open_Final_6070_6439",
+    "fps": 60,
+    "num_frames": 369,
+    "events": [
+      {
+        "frame": 21,
+        "label": "near_ad_forehand_serve_t_i-formation_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 61,
+        "label": "far_ad_forehand_return_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 178,
+        "label": "near_deuce_forehand_smash_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 215,
+        "label": "far_deuce_forehand_lob_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 326,
+        "label": "near_ad_forehand_smash_ii_non-serve_err",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_5532_5744",
+    "fps": 30,
+    "num_frames": 212,
+    "events": [
+      {
+        "frame": 19,
+        "label": "near_deuce_forehand_serve_t_i-formation_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 37,
+        "label": "far_deuce_backhand_return_io_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 68,
+        "label": "near_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 114,
+        "label": "far_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 164,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 179,
+        "label": "far_deuce_forehand_volley_cc_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_4273_4448",
+    "fps": 30,
+    "num_frames": 175,
+    "events": [
+      {
+        "frame": 10,
+        "label": "near_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 31,
+        "label": "far_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 75,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 106,
+        "label": "far_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 130,
+        "label": "near_ad_backhand_volley_cc_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Purcell_ThompsonvsKrawietz_PuetzHighlights_2024US_Open_Final_5440_5645",
+    "fps": 60,
+    "num_frames": 205,
+    "events": [
+      {
+        "frame": 11,
+        "label": "near_ad_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 57,
+        "label": "far_ad_backhand_lob_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 165,
+        "label": "near_deuce_forehand_smash_dl_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_90_215",
+    "fps": 30,
+    "num_frames": 125,
+    "events": [
+      {
+        "frame": 13,
+        "label": "far_ad_forehand_serve_b_conventional_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 32,
+        "label": "near_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 95,
+        "label": "far_ad_forehand_smash_ii_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_6175_6503",
+    "fps": 25,
+    "num_frames": 328,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 19,
+        "label": "far_ad_forehand_return_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 51,
+        "label": "near_ad_forehand_smash_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 218,
+        "label": "near_deuce_forehand_smash_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 248,
+        "label": "far_deuce_forehand_swing_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 283,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 317,
+        "label": "far_deuce_backhand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 328,
+        "label": "near_ad_backhand_smash_dl_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Purcell_ThompsonvsKrawietz_PuetzHighlights_2024US_Open_Final_1428_2096",
+    "fps": 60,
+    "num_frames": 668,
+    "events": [
+      {
+        "frame": 17,
+        "label": "far_ad_forehand_serve_b_conventional_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 73,
+        "label": "near_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 142,
+        "label": "far_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 222,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 304,
+        "label": "far_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 342,
+        "label": "near_deuce_backhand_volley_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 420,
+        "label": "far_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 461,
+        "label": "near_deuce_forehand_smash_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 513,
+        "label": "far_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 543,
+        "label": "near_deuce_forehand_smash_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 635,
+        "label": "far_ad_backhand_swing_cc_non-serve_err",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_6372_6562_7082",
+    "fps": 25,
+    "num_frames": 520,
+    "events": [
+      {
+        "frame": 19,
+        "label": "near_ad_forehand_serve_t_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 35,
+        "label": "far_ad_forehand_return_io_non-serve_err",
+        "player_id": "P4"
+      },
+      {
+        "frame": 12,
+        "label": "far_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 35,
+        "label": "near_ad_forehand_return_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 54,
+        "label": "far_deuce_backhand_volley_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 79,
+        "label": "far_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 92,
+        "label": "far_deuce_backhand_volley_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 123,
+        "label": "near_ad_forehand_lob_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 198,
+        "label": "far_deuce_forehand_lob_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 308,
+        "label": "near_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 337,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 375,
+        "label": "near_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 403,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 439,
+        "label": "near_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 470,
+        "label": "far_deuce_forehand_swing_cc_non-serve_err",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_5282_5365",
+    "fps": 25,
+    "num_frames": 83,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 16,
+        "label": "near_deuce_forehand_return_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 28,
+        "label": "far_ad_forehand_volley_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 55,
+        "label": "near_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 83,
+        "label": "far_ad_backhand_smash_dl_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_1787_1924",
+    "fps": 25,
+    "num_frames": 137,
+    "events": [
+      {
+        "frame": 12,
+        "label": "far_deuce_forehand_serve_w_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 29,
+        "label": "near_deuce_forehand_return_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 55,
+        "label": "far_deuce_backhand_swing_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 86,
+        "label": "near_deuce_backhand_swing_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 99,
+        "label": "far_ad_backhand_volley_dl_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Purcell_ThompsonvsKrawietz_PuetzHighlights_2024US_Open_Final_2678_3775_3919",
+    "fps": 60,
+    "num_frames": 144,
+    "events": [
+      {
+        "frame": 18,
+        "label": "far_ad_forehand_serve_t_conventional_win",
+        "player_id": "P1"
+      },
+      {
+        "frame": 14,
+        "label": "near_ad_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 67,
+        "label": "far_ad_forehand_return_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 95,
+        "label": "near_ad_backhand_volley_cc_non-serve_err",
+        "player_id": "P3"
+      }
+    ]
+  }
+]

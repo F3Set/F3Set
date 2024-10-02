@@ -1,0 +1,561 @@
+[
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_115_229",
+    "fps": 25,
+    "num_frames": 114,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_deuce_forehand_serve_b_i-formation_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 18,
+        "label": "near_deuce_backhand_return_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 32,
+        "label": "far_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 71,
+        "label": "near_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 85,
+        "label": "far_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 114,
+        "label": "near_deuce_forehand_smash_dl_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_357_399",
+    "fps": 25,
+    "num_frames": 42,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_b_conventional_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 15,
+        "label": "near_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 42,
+        "label": "far_ad_backhand_swing_dl_non-serve_err",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_563_594",
+    "fps": 25,
+    "num_frames": 31,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_ad_forehand_serve_b_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 20,
+        "label": "far_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 31,
+        "label": "near_deuce_backhand_smash_io_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_742_811",
+    "fps": 25,
+    "num_frames": 69,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 16,
+        "label": "near_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 37,
+        "label": "far_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 69,
+        "label": "near_deuce_forehand_swing_cc_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_1002_1247",
+    "fps": 25,
+    "num_frames": 245,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_deuce_forehand_serve_t_conventional_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 21,
+        "label": "near_deuce_forehand_return_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 35,
+        "label": "far_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 49,
+        "label": "near_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 67,
+        "label": "far_deuce_backhand_volley_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 101,
+        "label": "near_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 121,
+        "label": "far_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 139,
+        "label": "near_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 154,
+        "label": "far_deuce_backhand_volley_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 179,
+        "label": "near_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 197,
+        "label": "far_ad_forehand_volley_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 227,
+        "label": "near_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 245,
+        "label": "far_deuce_forehand_lob_cc_non-serve_err",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_1439_1536",
+    "fps": 25,
+    "num_frames": 97,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_ad_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 18,
+        "label": "far_ad_forehand_return_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 97,
+        "label": "near_deuce_forehand_smash_cc_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_1733_1980",
+    "fps": 25,
+    "num_frames": 247,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 17,
+        "label": "far_deuce_forehand_return_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 46,
+        "label": "near_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 73,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 92,
+        "label": "near_ad_backhand_volley_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 109,
+        "label": "far_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 131,
+        "label": "near_deuce_backhand_volley_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 169,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 183,
+        "label": "near_ad_backhand_volley_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 212,
+        "label": "far_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 228,
+        "label": "near_ad_forehand_lob_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 247,
+        "label": "far_deuce_forehand_lob_dl_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_2171_2200",
+    "fps": 25,
+    "num_frames": 29,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 17,
+        "label": "far_deuce_backhand_return_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 29,
+        "label": "near_ad_backhand_smash_dl_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_2390_2420",
+    "fps": 25,
+    "num_frames": 30,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 18,
+        "label": "near_deuce_forehand_return_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 30,
+        "label": "far_ad_backhand_volley_cc_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_2731_2819",
+    "fps": 25,
+    "num_frames": 88,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 17,
+        "label": "far_deuce_backhand_return_io_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 37,
+        "label": "near_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 79,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 88,
+        "label": "near_deuce_forehand_volley_cc_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_2983_3020",
+    "fps": 25,
+    "num_frames": 37,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_b_conventional_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 16,
+        "label": "near_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 37,
+        "label": "far_ad_backhand_swing_dl_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_3169_3247",
+    "fps": 25,
+    "num_frames": 78,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_b_conventional_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 17,
+        "label": "near_ad_forehand_return_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 37,
+        "label": "far_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 78,
+        "label": "near_deuce_forehand_lob_cc_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_3493_3588",
+    "fps": 25,
+    "num_frames": 95,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 17,
+        "label": "near_deuce_forehand_return_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 44,
+        "label": "far_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 79,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 95,
+        "label": "far_deuce_forehand_volley_dl_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_3754_3830",
+    "fps": 25,
+    "num_frames": 76,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_deuce_forehand_serve_w_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 18,
+        "label": "far_deuce_forehand_return_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 35,
+        "label": "near_ad_forehand_smash_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 76,
+        "label": "far_deuce_forehand_swing_cc_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_4022_4183",
+    "fps": 25,
+    "num_frames": 161,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 17,
+        "label": "far_deuce_forehand_return_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 63,
+        "label": "near_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 97,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 112,
+        "label": "near_ad_backhand_volley_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 161,
+        "label": "far_ad_forehand_swing_ii_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_4347_4442",
+    "fps": 25,
+    "num_frames": 95,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_deuce_forehand_serve_w_i-formation_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 18,
+        "label": "far_deuce_forehand_return_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 38,
+        "label": "near_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 64,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 95,
+        "label": "near_ad_forehand_smash_ii_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Salisbury_Ram_vs_Krawietz_Puetz_And_More___Toronto_2023_Doubles_Semi-Finals_4580_4702",
+    "fps": 25,
+    "num_frames": 122,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_ad_forehand_serve_b_conventional_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 18,
+        "label": "far_ad_forehand_return_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 42,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 84,
+        "label": "far_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 97,
+        "label": "near_deuce_backhand_volley_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 122,
+        "label": "far_ad_backhand_swing_dl_non-serve_err",
+        "player_id": "P4"
+      }
+    ]
+  }
+]

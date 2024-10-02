@@ -1,0 +1,1727 @@
+[
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_365_456",
+    "fps": 30,
+    "num_frames": 91,
+    "events": [
+      {
+        "frame": 17,
+        "label": "far_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 42,
+        "label": "near_deuce_forehand_return_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 58,
+        "label": "far_ad_forehand_volley_ii_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_3510_3649",
+    "fps": 30,
+    "num_frames": 139,
+    "events": [
+      {
+        "frame": 11,
+        "label": "far_deuce_forehand_serve_t_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 34,
+        "label": "near_deuce_backhand_return_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 60,
+        "label": "far_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 95,
+        "label": "near_deuce_forehand_swing_dl_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_2957_3049",
+    "fps": 30,
+    "num_frames": 92,
+    "events": [
+      {
+        "frame": 11,
+        "label": "near_deuce_forehand_serve_w_conventional_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 35,
+        "label": "far_deuce_forehand_return_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 50,
+        "label": "near_ad_forehand_volley_ii_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_993_1300",
+    "fps": 25,
+    "num_frames": 307,
+    "events": [
+      {
+        "frame": 20,
+        "label": "near_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 40,
+        "label": "far_deuce_forehand_return_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 72,
+        "label": "near_deuce_backhand_swing_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 100,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 116,
+        "label": "near_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 169,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 181,
+        "label": "near_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 211,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 224,
+        "label": "near_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 260,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 275,
+        "label": "near_deuce_forehand_volley_dl_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_6453_6609",
+    "fps": 30,
+    "num_frames": 156,
+    "events": [
+      {
+        "frame": 20,
+        "label": "near_deuce_forehand_serve_t_i-formation_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 43,
+        "label": "far_deuce_backhand_return_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 67,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 115,
+        "label": "far_ad_forehand_volley_io_non-serve_err",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_2740_3086",
+    "fps": 25,
+    "num_frames": 346,
+    "events": [
+      {
+        "frame": 19,
+        "label": "far_ad_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 38,
+        "label": "near_ad_forehand_return_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 63,
+        "label": "far_ad_backhand_volley_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 78,
+        "label": "near_ad_backhand_lob_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 147,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 183,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 210,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 238,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 251,
+        "label": "far_deuce_backhand_volley_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 292,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 304,
+        "label": "far_ad_backhand_volley_cc_non-serve_err",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_4975_5142",
+    "fps": 25,
+    "num_frames": 167,
+    "events": [
+      {
+        "frame": 21,
+        "label": "far_ad_forehand_serve_t_i-formation_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 43,
+        "label": "near_ad_forehand_return_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 73,
+        "label": "far_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 111,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 123,
+        "label": "far_deuce_backhand_volley_io_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_3865_4106",
+    "fps": 30,
+    "num_frames": 241,
+    "events": [
+      {
+        "frame": 12,
+        "label": "near_ad_forehand_serve_t_i-formation_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 36,
+        "label": "far_ad_forehand_return_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 149,
+        "label": "near_ad_forehand_smash_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 180,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 195,
+        "label": "near_deuce_backhand_volley_io_non-serve_err",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_8608_8667",
+    "fps": 25,
+    "num_frames": 59,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_deuce_forehand_serve_b_i-formation_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 25,
+        "label": "near_deuce_forehand_return_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 59,
+        "label": "far_ad_backhand_swing_cc_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_9319_9474_9505",
+    "fps": 25,
+    "num_frames": 31,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 21,
+        "label": "near_ad_forehand_return_ii_non-serve_err",
+        "player_id": "P4"
+      },
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 19,
+        "label": "near_ad_forehand_return_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 31,
+        "label": "far_deuce_forehand_volley_dl_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_1300_1390",
+    "fps": 30,
+    "num_frames": 90,
+    "events": [
+      {
+        "frame": 11,
+        "label": "near_deuce_forehand_serve_w_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 40,
+        "label": "far_deuce_forehand_return_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 50,
+        "label": "near_ad_forehand_smash_ii_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_5946_6005",
+    "fps": 25,
+    "num_frames": 59,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_t_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 17,
+        "label": "near_ad_forehand_return_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 59,
+        "label": "far_ad_forehand_swing_cc_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_10055_10161",
+    "fps": 25,
+    "num_frames": 106,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 20,
+        "label": "far_deuce_backhand_return_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 55,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 73,
+        "label": "far_deuce_forehand_volley_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 85,
+        "label": "near_ad_backhand_volley_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 96,
+        "label": "far_deuce_backhand_volley_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 106,
+        "label": "near_ad_forehand_volley_dl_non-serve_err",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_1812_1906",
+    "fps": 30,
+    "num_frames": 94,
+    "events": [
+      {
+        "frame": 17,
+        "label": "near_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 39,
+        "label": "far_deuce_forehand_return_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 55,
+        "label": "near_ad_forehand_volley_ii_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_5754_5892",
+    "fps": 25,
+    "num_frames": 138,
+    "events": [
+      {
+        "frame": 10,
+        "label": "near_ad_forehand_serve_b_conventional_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 30,
+        "label": "far_ad_forehand_return_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 41,
+        "label": "near_deuce_forehand_volley_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 67,
+        "label": "far_ad_backhand_lob_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 101,
+        "label": "near_deuce_forehand_smash_cc_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_5890_6247",
+    "fps": 30,
+    "num_frames": 357,
+    "events": [
+      {
+        "frame": 13,
+        "label": "far_deuce_forehand_serve_w_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 36,
+        "label": "near_deuce_forehand_return_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 52,
+        "label": "far_deuce_backhand_volley_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 66,
+        "label": "near_deuce_backhand_swing_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 114,
+        "label": "far_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 137,
+        "label": "near_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 174,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 213,
+        "label": "near_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 244,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 268,
+        "label": "near_ad_backhand_volley_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 316,
+        "label": "far_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 326,
+        "label": "near_ad_backhand_volley_cc_non-serve_err",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_9099_9247",
+    "fps": 25,
+    "num_frames": 148,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_w_i-formation_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 18,
+        "label": "near_ad_backhand_return_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 48,
+        "label": "far_deuce_backhand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 95,
+        "label": "near_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 107,
+        "label": "far_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 131,
+        "label": "near_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 148,
+        "label": "far_deuce_forehand_smash_dl_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_9665_9703",
+    "fps": 25,
+    "num_frames": 38,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_deuce_forehand_serve_b_i-formation_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 20,
+        "label": "far_deuce_backhand_return_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 38,
+        "label": "near_ad_backhand_smash_cc_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Purcell_ThompsonvsKrawietz_PuetzHighlights_2024US_Open_Final_4702_4923",
+    "fps": 60,
+    "num_frames": 221,
+    "events": [
+      {
+        "frame": 10,
+        "label": "near_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 51,
+        "label": "far_deuce_forehand_return_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 110,
+        "label": "near_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 190,
+        "label": "far_deuce_backhand_swing_ii_non-serve_err",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_3224_3316",
+    "fps": 30,
+    "num_frames": 92,
+    "events": [
+      {
+        "frame": 14,
+        "label": "near_deuce_forehand_serve_t_i-formation_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 26,
+        "label": "far_deuce_backhand_return_io_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 48,
+        "label": "near_ad_forehand_smash_ii_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_1360_1607",
+    "fps": 25,
+    "num_frames": 247,
+    "events": [
+      {
+        "frame": 19,
+        "label": "near_ad_forehand_serve_t_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 35,
+        "label": "far_ad_forehand_return_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 72,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 105,
+        "label": "far_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 137,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 171,
+        "label": "far_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 183,
+        "label": "near_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 203,
+        "label": "far_deuce_backhand_volley_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 210,
+        "label": "near_deuce_backhand_volley_io_non-serve_err",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_3248_3486_3747",
+    "fps": 25,
+    "num_frames": 261,
+    "events": [
+      {
+        "frame": 14,
+        "label": "far_deuce_forehand_serve_t_i-formation_win",
+        "player_id": "P4"
+      },
+      {
+        "frame": 15,
+        "label": "far_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 30,
+        "label": "near_ad_forehand_return_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 69,
+        "label": "far_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 104,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 123,
+        "label": "far_deuce_backhand_volley_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 160,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 203,
+        "label": "far_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 219,
+        "label": "near_deuce_forehand_volley_cc_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_5457_5652",
+    "fps": 25,
+    "num_frames": 195,
+    "events": [
+      {
+        "frame": 18,
+        "label": "far_ad_forehand_serve_w_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 39,
+        "label": "near_ad_backhand_return_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 74,
+        "label": "far_deuce_forehand_smash_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 89,
+        "label": "near_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 146,
+        "label": "far_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 161,
+        "label": "near_ad_backhand_volley_cc_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Purcell_ThompsonvsKrawietz_PuetzHighlights_2024US_Open_Final_198_585_958",
+    "fps": 60,
+    "num_frames": 373,
+    "events": [
+      {
+        "frame": 15,
+        "label": "far_ad_forehand_serve_t_i-formation_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 53,
+        "label": "near_ad_forehand_return_ii_non-serve_win",
+        "player_id": "P2"
+      },
+      {
+        "frame": 20,
+        "label": "far_ad_forehand_serve_t_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 71,
+        "label": "near_ad_forehand_return_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 173,
+        "label": "far_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 245,
+        "label": "near_deuce_backhand_lob_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 325,
+        "label": "far_deuce_forehand_smash_cc_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_752_925",
+    "fps": 25,
+    "num_frames": 173,
+    "events": [
+      {
+        "frame": 16,
+        "label": "far_deuce_forehand_serve_b_i-formation_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 33,
+        "label": "near_deuce_forehand_return_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 60,
+        "label": "far_ad_backhand_volley_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 91,
+        "label": "near_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 106,
+        "label": "far_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 141,
+        "label": "near_deuce_forehand_swing_cc_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_6588_6684",
+    "fps": 25,
+    "num_frames": 96,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 17,
+        "label": "far_deuce_backhand_return_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 53,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 77,
+        "label": "far_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 96,
+        "label": "near_deuce_forehand_smash_dl_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_320_657",
+    "fps": 25,
+    "num_frames": 337,
+    "events": [
+      {
+        "frame": 10,
+        "label": "far_deuce_forehand_serve_w_conventional_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 30,
+        "label": "near_deuce_forehand_return_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 52,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 90,
+        "label": "near_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 102,
+        "label": "far_ad_backhand_volley_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 154,
+        "label": "near_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 171,
+        "label": "far_ad_backhand_volley_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 204,
+        "label": "near_ad_backhand_lob_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 279,
+        "label": "far_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 296,
+        "label": "near_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 304,
+        "label": "far_deuce_forehand_volley_cc_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_7205_7442_7664_8141",
+    "fps": 25,
+    "num_frames": 477,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_w_i-formation_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 24,
+        "label": "near_ad_backhand_return_dl_non-serve_win",
+        "player_id": "P2"
+      },
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 22,
+        "label": "near_ad_forehand_return_io_non-serve_win",
+        "player_id": "P4"
+      },
+      {
+        "frame": 0,
+        "label": "far_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 19,
+        "label": "near_deuce_backhand_return_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 84,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 111,
+        "label": "near_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 139,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 171,
+        "label": "near_deuce_backhand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 206,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 234,
+        "label": "near_deuce_forehand_swing_io_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 262,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 292,
+        "label": "near_deuce_backhand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 332,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 345,
+        "label": "near_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 381,
+        "label": "far_deuce_backhand_swing_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 419,
+        "label": "near_deuce_forehand_swing_io_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 432,
+        "label": "far_deuce_forehand_volley_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 455,
+        "label": "near_deuce_backhand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 477,
+        "label": "far_deuce_forehand_volley_cc_non-serve_err",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_2305_2697",
+    "fps": 25,
+    "num_frames": 392,
+    "events": [
+      {
+        "frame": 12,
+        "label": "far_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 33,
+        "label": "near_deuce_backhand_return_io_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 71,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 96,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 119,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 134,
+        "label": "near_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 179,
+        "label": "far_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 205,
+        "label": "near_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 218,
+        "label": "far_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 249,
+        "label": "near_deuce_backhand_swing_io_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 285,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 319,
+        "label": "near_ad_forehand_smash_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 335,
+        "label": "far_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 350,
+        "label": "near_ad_backhand_volley_dl_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_2672_2830",
+    "fps": 30,
+    "num_frames": 158,
+    "events": [
+      {
+        "frame": 21,
+        "label": "near_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 42,
+        "label": "far_deuce_forehand_lob_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 122,
+        "label": "near_ad_forehand_swing_ii_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_2020_2513",
+    "fps": 30,
+    "num_frames": 493,
+    "events": [
+      {
+        "frame": 11,
+        "label": "near_ad_forehand_serve_w_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 46,
+        "label": "far_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 77,
+        "label": "near_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 115,
+        "label": "far_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 128,
+        "label": "near_deuce_backhand_volley_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 142,
+        "label": "far_deuce_backhand_volley_io_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 158,
+        "label": "near_deuce_forehand_volley_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 198,
+        "label": "far_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 241,
+        "label": "near_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 275,
+        "label": "far_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 291,
+        "label": "near_deuce_backhand_volley_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 322,
+        "label": "far_ad_forehand_volley_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 341,
+        "label": "near_deuce_backhand_volley_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 383,
+        "label": "far_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 416,
+        "label": "near_ad_backhand_lob_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 458,
+        "label": "far_ad_forehand_smash_ii_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_4030_4342",
+    "fps": 25,
+    "num_frames": 312,
+    "events": [
+      {
+        "frame": 11,
+        "label": "near_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 30,
+        "label": "far_deuce_forehand_return_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 69,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 96,
+        "label": "far_ad_backhand_smash_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 143,
+        "label": "near_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 263,
+        "label": "far_ad_forehand_swing_io_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_4710_4863",
+    "fps": 25,
+    "num_frames": 153,
+    "events": [
+      {
+        "frame": 11,
+        "label": "far_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 30,
+        "label": "near_deuce_backhand_return_ii_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 45,
+        "label": "far_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 83,
+        "label": "near_deuce_forehand_swing_cc_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 92,
+        "label": "far_ad_backhand_volley_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 104,
+        "label": "near_deuce_backhand_volley_io_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 119,
+        "label": "far_deuce_forehand_volley_cc_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_5727_5786",
+    "fps": 25,
+    "num_frames": 59,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_ad_forehand_serve_b_i-formation_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 20,
+        "label": "far_ad_forehand_return_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 31,
+        "label": "near_deuce_forehand_smash_io_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 59,
+        "label": "far_deuce_forehand_smash_dl_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_6805_6952_7043_7087",
+    "fps": 25,
+    "num_frames": 44,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_ad_forehand_serve_b_conventional_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 14,
+        "label": "far_ad_backhand_return_cc_non-serve_win",
+        "player_id": "P4"
+      },
+      {
+        "frame": 0,
+        "label": "near_ad_forehand_serve_b_i-formation_err",
+        "player_id": "P2"
+      },
+      {
+        "frame": 0,
+        "label": "far_deuce_forehand_serve_w_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 19,
+        "label": "near_deuce_backhand_return_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 44,
+        "label": "far_ad_forehand_volley_io_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_5502_5565",
+    "fps": 25,
+    "num_frames": 63,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_b_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 19,
+        "label": "near_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 46,
+        "label": "far_ad_forehand_swing_dl_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 63,
+        "label": "near_deuce_forehand_volley_cc_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_8817_8999",
+    "fps": 25,
+    "num_frames": 182,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_deuce_forehand_serve_b_i-formation_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 18,
+        "label": "far_deuce_forehand_return_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 80,
+        "label": "near_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 104,
+        "label": "far_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 137,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 167,
+        "label": "far_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 182,
+        "label": "near_deuce_forehand_volley_ii_non-serve_win",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_6916_7016",
+    "fps": 30,
+    "num_frames": 100,
+    "events": [
+      {
+        "frame": 15,
+        "label": "near_ad_forehand_serve_w_conventional_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 43,
+        "label": "far_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 58,
+        "label": "near_ad_backhand_volley_cc_non-serve_err",
+        "player_id": "P1"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_65_232",
+    "fps": 25,
+    "num_frames": 167,
+    "events": [
+      {
+        "frame": 15,
+        "label": "far_ad_forehand_serve_b_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 36,
+        "label": "near_ad_forehand_return_io_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 77,
+        "label": "far_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 105,
+        "label": "near_ad_backhand_swing_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 124,
+        "label": "far_ad_backhand_volley_cc_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_9863_9880",
+    "fps": 25,
+    "num_frames": 17,
+    "events": [
+      {
+        "frame": 0,
+        "label": "far_deuce_forehand_serve_t_i-formation_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 17,
+        "label": "near_deuce_backhand_lob_ii_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_5965_6169",
+    "fps": 25,
+    "num_frames": 204,
+    "events": [
+      {
+        "frame": 19,
+        "label": "far_ad_forehand_serve_w_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 42,
+        "label": "near_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 120,
+        "label": "far_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 147,
+        "label": "near_ad_forehand_swing_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 161,
+        "label": "far_deuce_backhand_volley_ii_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Granollers_Zeballos_vs_Arevalo_Rojer____Toronto_2023_Doubles_Semi-Finals_8279_8427_8493",
+    "fps": 25,
+    "num_frames": 66,
+    "events": [
+      {
+        "frame": 0,
+        "label": "near_deuce_forehand_serve_b_i-formation_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 17,
+        "label": "far_deuce_backhand_return_cc_non-serve_win",
+        "player_id": "P1"
+      },
+      {
+        "frame": 0,
+        "label": "far_ad_forehand_serve_w_conventional_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 19,
+        "label": "near_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 30,
+        "label": "far_deuce_backhand_smash_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 50,
+        "label": "near_ad_forehand_swing_io_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 66,
+        "label": "far_ad_backhand_smash_cc_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  },
+  {
+    "video": "Sock_&_Isner_vs_Gonzalez_&_Roger-Vasselin_for_the_Title__Indian_Wells_2022_Doubles_Final_Highlights_5021_5202",
+    "fps": 30,
+    "num_frames": 181,
+    "events": [
+      {
+        "frame": 15,
+        "label": "far_ad_forehand_serve_w_conventional_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 34,
+        "label": "near_ad_backhand_return_cc_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 91,
+        "label": "far_ad_forehand_smash_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 112,
+        "label": "near_deuce_backhand_lob_ii_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 150,
+        "label": "far_ad_forehand_volley_ii_non-serve_win",
+        "player_id": "P4"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_2047_2192",
+    "fps": 25,
+    "num_frames": 145,
+    "events": [
+      {
+        "frame": 10,
+        "label": "far_deuce_forehand_serve_b_conventional_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 27,
+        "label": "near_deuce_backhand_return_ii_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 41,
+        "label": "far_ad_backhand_volley_cc_non-serve_in",
+        "player_id": "P1"
+      },
+      {
+        "frame": 70,
+        "label": "near_ad_backhand_swing_dl_non-serve_in",
+        "player_id": "P4"
+      },
+      {
+        "frame": 82,
+        "label": "far_deuce_forehand_volley_dl_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 112,
+        "label": "near_ad_backhand_lob_dl_non-serve_win",
+        "player_id": "P3"
+      }
+    ]
+  },
+  {
+    "video": "Korda_Thompson_vs_Behar_Pavlasek___Madrid_2024_Doubles_Final_Highlights_3814_3979",
+    "fps": 25,
+    "num_frames": 165,
+    "events": [
+      {
+        "frame": 17,
+        "label": "near_ad_forehand_serve_b_conventional_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 34,
+        "label": "far_ad_forehand_return_ii_non-serve_in",
+        "player_id": "P2"
+      },
+      {
+        "frame": 109,
+        "label": "near_deuce_forehand_swing_dl_non-serve_in",
+        "player_id": "P3"
+      },
+      {
+        "frame": 119,
+        "label": "far_ad_backhand_volley_cc_non-serve_win",
+        "player_id": "P2"
+      }
+    ]
+  }
+]
