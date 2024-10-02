@@ -12,7 +12,7 @@ Refer to the READMEs in the [data](https://github.com/F3EST/F3Tennis/tree/main/d
 ## Basic usage
 To train all baseline models, use `python3 train_f3set_baselines.py <dataset_name> <frame_dir> -s <save_dir> -m <model_arch> -t <head_arch>`.
 
-* `<dataset_name>`: f3set-tennis
+* `<dataset_name>`: name of the dataset (e.g., f3set-tennis)
 * `<frame_dir>`: path to the extracted frames
 * `<save_dir>`: path to save logs, checkpoints, and inference results
 * `<model_arch>`: feature extractor architecture (e.g., rny002, rny002_tsm, slowfast)
