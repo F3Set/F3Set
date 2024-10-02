@@ -9,6 +9,9 @@ The code is tested in Linux (Ubuntu 22.04) with the dependency versions in requi
 ## Dataset
 Refer to the READMEs in the [data](https://github.com/F3EST/F3Tennis/tree/main/data) directory for pre-processing and setup instructions.
 
+## Anotation Tool
+We also introduce a general annotation pipeline and tool to help the community of other domain experts create new $F^3$ datasets ([here](https://github.com/F3Set/F3Set/tree/main/annotation-tool)). 
+
 ## Basic usage
 To train all baseline models, use `python3 train_f3set_baselines.py <dataset_name> <frame_dir> -s <save_dir> -m <model_arch> -t <head_arch>`.
 
