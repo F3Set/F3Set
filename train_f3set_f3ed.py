@@ -58,7 +58,7 @@ def get_args():
         '-t', '--temporal_arch', type=str, default='gru',
         choices=['gru', 'deeper_gru', 'mstcn', 'asformer', 'actionformer', 'gcn', 'tcn', 'fc'])
     parser.add_argument(
-        '-ctx', '--use_ctx', type=bool, default=True,
+        '-ctx', '--use_ctx', action='store_true',
         help='Whether include the contextual module; if not, just use multi-label classifier')
 
     parser.add_argument('--clip_len', type=int, default=96)
@@ -362,11 +362,9 @@ def evaluate(model, dataset, classes, delta=0, window=5, device='cuda'):
 
     # evaluation metrices
     f = open('error_sequences_f3ed.txt', 'w')
-    edit_scores_high, edit_scores_mid, edit_scores_low = [], [], []
+    edit_scores = []
     f1_element = np.zeros((len(classes), 3), int)
-    f1_event_high = dict() #np.zeros((len(classes), 3), int)
-    f1_event_mid = dict() #np.zeros((len(classes), 3), int)
-    f1_event_low = dict() #np.zeros((len(classes), 3), int)
+    f1_event = dict()
     for video, (coarse_scores, fine_scores, support) in sorted(pred_dict.items()):
         coarse_label, fine_label = dataset.get_labels(video)
         coarse_scores /= support[:, None]
@@ -376,6 +374,7 @@ def evaluate(model, dataset, classes, delta=0, window=5, device='cuda'):
         coarse_scores = non_maximum_suppression_np(coarse_scores, 5)
         coarse_pred = np.argmax(coarse_scores, axis=1)
 
+        # dataset specific
         fine_pred = np.zeros_like(fine_scores, int)
         for i in range(len(fine_scores)):
             for start, end in [[0, 2], [2, 5], [5, 8], [16, 24], [25, 29]]:
@@ -387,11 +386,6 @@ def evaluate(model, dataset, classes, delta=0, window=5, device='cuda'):
                 for start, end in [[8, 10], [10, 16]]:
                     max_idx = np.argmax(fine_scores[i, start:end])
                     fine_pred[i, start + max_idx] = 1
-
-        # fine_pred = fine_scores
-        # fine_pred[fine_pred > 0.5] = 1
-        # fine_pred[fine_pred <= 0.5] = 0
-        # fine_pred = fine_pred.astype(int)
 
         fine_pred = coarse_pred[:, np.newaxis] * fine_pred
 
@@ -424,86 +418,32 @@ def evaluate(model, dataset, classes, delta=0, window=5, device='cuda'):
                         print_pred.append(classes_inv[j + 1])
                 print_preds.append('_'.join(print_pred))
 
-        labels_high = fine_label
-        preds_high = fine_pred
-        labels_mid = labels_high[:, :24]
-        preds_mid = preds_high[:, :24]
-        labels_low = labels_high[:, [0, 1, 5, 6, 7, 8, 9, 25, 26, 27, 28]]
-        preds_low = preds_high[:, [0, 1, 5, 6, 7, 8, 9, 25, 26, 27, 28]]
-
-        labels_high = [int(''.join(str(x) for x in row), 2) for row in labels_high]
-        preds_high = [int(''.join(str(x) for x in row), 2) for row in preds_high]
-        labels_mid = [int(''.join(str(x) for x in row), 2) for row in labels_mid]
-        preds_mid = [int(''.join(str(x) for x in row), 2) for row in preds_mid]
-        labels_low = [int(''.join(str(x) for x in row), 2) for row in labels_low]
-        preds_low = [int(''.join(str(x) for x in row), 2) for row in preds_low]
-
-        preds_high = coarse_pred * preds_high
-        preds_mid = coarse_pred * preds_mid
-        preds_low = coarse_pred * preds_low
+        labels = [int(''.join(str(x) for x in row), 2) for row in fine_label]
+        preds = [int(''.join(str(x) for x in row), 2) for row in fine_pred]
+        preds = coarse_pred * preds
 
         # event F1 scores
-        for i in range(len(preds_high)):
-            if preds_high[i] > 0 and preds_high[i] in labels_high[
-                                                      max(0, i - delta):min(len(preds_high), i + delta + 1)]:
-                if preds_high[i] not in f1_event_high:
-                    f1_event_high[preds_high[i]] = [1, 0, 0]
+        for i in range(len(preds)):
+            if preds[i] > 0 and preds[i] in labels[max(0, i - delta):min(len(preds), i + delta + 1)]:
+                if preds[i] not in f1_event:
+                    f1_event[preds[i]] = [1, 0, 0]
                 else:
-                    f1_event_high[preds_high[i]][0] += 1
-            if preds_high[i] > 0 and sum(labels_high[max(0, i - delta):min(len(preds_high), i + delta + 1)]) == 0:
-                if preds_high[i] not in f1_event_high:
-                    f1_event_high[preds_high[i]] = [0, 1, 0]
+                    f1_event[preds[i]][0] += 1
+            if preds[i] > 0 and sum(labels[max(0, i - delta):min(len(preds), i + delta + 1)]) == 0:
+                if preds[i] not in f1_event:
+                    f1_event[preds[i]] = [0, 1, 0]
                 else:
-                    f1_event_high[preds_high[i]][1] += 1
-            if labels_high[i] > 0 and labels_high[i] not in preds_high[
-                                                            max(0, i - delta):min(len(preds_high), i + delta + 1)]:
-                if labels_high[i] not in f1_event_high:
-                    f1_event_high[labels_high[i]] = [0, 0, 1]
+                    f1_event[preds[i]][1] += 1
+            if labels[i] > 0 and labels[i] not in preds[max(0, i - delta):min(len(preds), i + delta + 1)]:
+                if labels[i] not in f1_event:
+                    f1_event[labels[i]] = [0, 0, 1]
                 else:
-                    f1_event_high[labels_high[i]][2] += 1
+                    f1_event[labels[i]][2] += 1
 
-            if preds_mid[i] > 0 and preds_mid[i] in labels_mid[max(0, i - delta):min(len(preds_high), i + delta + 1)]:
-                if preds_mid[i] not in f1_event_mid:
-                    f1_event_mid[preds_mid[i]] = [1, 0, 0]
-                else:
-                    f1_event_mid[preds_mid[i]][0] += 1
-            if preds_mid[i] > 0 and sum(labels_mid[max(0, i - delta):min(len(preds_high), i + delta + 1)]) == 0:
-                if preds_mid[i] not in f1_event_mid:
-                    f1_event_mid[preds_mid[i]] = [0, 1, 0]
-                else:
-                    f1_event_mid[preds_mid[i]][1] += 1
-            if labels_mid[i] > 0 and labels_mid[i] not in preds_mid[
-                                                          max(0, i - delta):min(len(preds_high), i + delta + 1)]:
-                if labels_mid[i] not in f1_event_mid:
-                    f1_event_mid[labels_mid[i]] = [0, 0, 1]
-                else:
-                    f1_event_mid[labels_mid[i]][2] += 1
+        gt = [k for k, g in groupby(labels) if k != 0]
+        pred = [k for k, g in groupby(preds) if k != 0]
 
-            if preds_low[i] > 0 and preds_low[i] in labels_low[max(0, i - delta):min(len(preds_high), i + delta + 1)]:
-                if preds_low[i] not in f1_event_low:
-                    f1_event_low[preds_low[i]] = [1, 0, 0]
-                else:
-                    f1_event_low[preds_low[i]][0] += 1
-            if preds_low[i] > 0 and sum(labels_low[max(0, i - delta):min(len(preds_high), i + delta + 1)]) == 0:
-                if preds_low[i] not in f1_event_low:
-                    f1_event_low[preds_low[i]] = [0, 1, 0]
-                else:
-                    f1_event_low[preds_low[i]][1] += 1
-            if labels_low[i] > 0 and labels_low[i] not in preds_low[
-                                                          max(0, i - delta):min(len(preds_high), i + delta + 1)]:
-                if labels_low[i] not in f1_event_low:
-                    f1_event_low[labels_low[i]] = [0, 0, 1]
-                else:
-                    f1_event_low[labels_low[i]][2] += 1
-
-        gt = [k for k, g in groupby(labels_high) if k != 0]
-        pred = [k for k, g in groupby(preds_high) if k != 0]
-        gt_mid = [k for k, g in groupby(labels_mid) if k != 0]
-        pred_mid = [k for k, g in groupby(preds_mid) if k != 0]
-        gt_low = [k for k, g in groupby(labels_low) if k != 0]
-        pred_low = [k for k, g in groupby(preds_low) if k != 0]
-
-        # record error sequences
+        # record error sequence
         if len(pred) == len(gt):
             for j in range(len(pred)):
                 if pred[j] != gt[j]:
@@ -518,186 +458,31 @@ def evaluate(model, dataset, classes, delta=0, window=5, device='cuda'):
             f.write('->'.join(print_gts) + '\n')
             f.write('\n')
 
-        edit_scores_high.append(edit_score(pred, gt))
-        edit_scores_mid.append(edit_score(pred_mid, gt_mid))
-        edit_scores_low.append(edit_score(pred_low, gt_low))
+        edit_scores.append(edit_score(pred, gt))
 
     f.close()
 
-    f1_high, count = 0, 0
-    for value in f1_event_high.values():
+    f1, count = 0, 0
+    for value in f1_event.values():
         if sum(value) == 0:
             continue
         precision = value[0] / (value[0] + value[1] + 1e-10)
         recall = value[0] / (value[0] + value[2] + 1e-10)
-        f1_high += 2 * precision * recall / (precision + recall + 1e-10)
+        f1 += 2 * precision * recall / (precision + recall + 1e-10)
         count += 1
-    f1_high /= count
+    f1 /= count
 
-    f1_mid, count = 0, 0
-    for value in f1_event_mid.values():
-        if sum(value) == 0:
-            continue
-        precision = value[0] / (value[0] + value[1] + 1e-10)
-        recall = value[0] / (value[0] + value[2] + 1e-10)
-        f1_mid += 2 * precision * recall / (precision + recall + 1e-10)
-        count += 1
-    f1_mid /= count
-
-    f1_low, count = 0, 0
-    for value in f1_event_low.values():
-        if sum(value) == 0:
-            continue
-        precision = value[0] / (value[0] + value[1] + 1e-10)
-        recall = value[0] / (value[0] + value[2] + 1e-10)
-        f1_low += 2 * precision * recall / (precision + recall + 1e-10)
-        count += 1
-    f1_low /= count
-
-    print('Mean F1 (event) high:', np.mean(f1_high))
-    print('Mean F1 (event) mid:', np.mean(f1_mid))
-    print('Mean F1 (event) low:', np.mean(f1_low))
+    print('Mean F1 (event):', np.mean(f1))
     print()
 
     precision = f1_element[:, 0] / (f1_element[:, 0] + f1_element[:, 1] + 1e-10)
     recall = f1_element[:, 0] / (f1_element[:, 0] + f1_element[:, 2] + 1e-10)
-    f1_high = 2 * precision * recall / (precision + recall + 1e-10)
-    f1_mid = f1_high[:24]
-    f1_low = f1_high[[0, 1, 5, 6, 7, 8, 9, 25, 26, 27, 28]]
-
-    print(f1_high)
+    f1 = 2 * precision * recall / (precision + recall + 1e-10)
+    print('Mean F1 (element):', np.mean(f1))
     print()
 
-    print('Mean F1 (element) high:', np.mean(f1_high))
-    print('Mean F1 (element) mid:', np.mean(f1_mid))
-    print('Mean F1 (element) low:', np.mean(f1_low))
-    print()
-
-    print('Edit high:', sum(edit_scores_high) / len(edit_scores_high))
-    print('Edit mid:', sum(edit_scores_mid) / len(edit_scores_mid))
-    print('Edit low:', sum(edit_scores_low) / len(edit_scores_low))
-    return sum(edit_scores_high) / len(edit_scores_high)
-    # edit_scores = []
-    # f1_element = np.zeros((len(classes), 3), int)
-    # f1_event = dict() 
-    # for video, (coarse_scores, fine_scores, support) in sorted(pred_dict.items()):
-    #     coarse_label, fine_label = dataset.get_labels(video)
-    #     coarse_scores /= support[:, None]
-    #     fine_scores /= support[:, None]
-
-    #     # argmax pred
-    #     coarse_scores = non_maximum_suppression_np(coarse_scores, 5)
-    #     coarse_pred = np.argmax(coarse_scores, axis=1)
-
-    #     # dataset specific
-    #     fine_pred = np.zeros_like(fine_scores, int)
-    #     for i in range(len(fine_scores)):
-    #         for start, end in [[0, 2], [2, 5], [5, 8], [16, 24], [25, 29]]:
-    #             max_idx = np.argmax(fine_scores[i, start:end])
-    #             fine_pred[i, start + max_idx] = 1
-    #         if fine_scores[i, 24] > 0.5:  # approach
-    #             fine_pred[i, 24] = 1
-    #         if fine_pred[i, 5] != 1:  # not a serve
-    #             for start, end in [[8, 10], [10, 16]]:
-    #                 max_idx = np.argmax(fine_scores[i, start:end])
-    #                 fine_pred[i, start + max_idx] = 1
-
-    #     fine_pred = coarse_pred[:, np.newaxis] * fine_pred
-
-    #     # element F1 scores
-    #     for i in range(len(fine_pred)):
-    #         for j in range(len(fine_pred[0])):
-    #             if fine_pred[i, j] == 1 and sum(
-    #                     fine_label[max(0, i - delta):min(len(fine_pred), i + delta + 1), j]) == 1:
-    #                 f1_element[j, 0] += 1  # tp
-    #             if fine_pred[i, j] == 1 and sum(
-    #                     fine_label[max(0, i - delta):min(len(fine_pred), i + delta + 1), j]) == 0:
-    #                 f1_element[j, 1] += 1  # fp
-    #             if fine_pred[i, j] == 0 and sum(
-    #                     fine_label[max(0, i - delta):min(len(fine_pred), i + delta + 1), j]) == 1:
-    #                 f1_element[j, 2] += 1  # fn
-
-    #     print_preds, print_gts = [], []
-    #     # tp, fp, fn
-    #     for i in range(len(fine_pred)):
-    #         if coarse_label[i] == 1:
-    #             print_gt = []
-    #             for j in range(len(fine_pred[0])):
-    #                 if fine_label[i, j] == 1:
-    #                     print_gt.append(classes_inv[j + 1])
-    #             print_gts.append('_'.join(print_gt))
-    #         if coarse_pred[i] == 1:
-    #             print_pred = []
-    #             for j in range(len(fine_pred[0])):
-    #                 if fine_pred[i, j] == 1:
-    #                     print_pred.append(classes_inv[j + 1])
-    #             print_preds.append('_'.join(print_pred))
-
-    #     labels = [int(''.join(str(x) for x in row), 2) for row in fine_label]
-    #     preds = [int(''.join(str(x) for x in row), 2) for row in fine_pred]
-    #     preds = coarse_pred * preds
-
-    #     # event F1 scores
-    #     for i in range(len(preds)):
-    #         if preds[i] > 0 and preds[i] in labels[max(0, i - delta):min(len(preds), i + delta + 1)]:
-    #             if preds[i] not in f1_event:
-    #                 f1_event[preds[i]] = [1, 0, 0]
-    #             else:
-    #                 f1_event[preds[i]][0] += 1
-    #         if preds[i] > 0 and sum(labels[max(0, i - delta):min(len(preds), i + delta + 1)]) == 0:
-    #             if preds[i] not in f1_event:
-    #                 f1_event[preds[i]] = [0, 1, 0]
-    #             else:
-    #                 f1_event[preds[i]][1] += 1
-    #         if labels[i] > 0 and labels[i] not in preds[max(0, i - delta):min(len(preds), i + delta + 1)]:
-    #             if labels[i] not in f1_event:
-    #                 f1_event[labels[i]] = [0, 0, 1]
-    #             else:
-    #                 f1_event[labels[i]][2] += 1
-
-    #     gt = [k for k, g in groupby(labels) if k != 0]
-    #     pred = [k for k, g in groupby(preds) if k != 0]
-
-    #     # record error sequence
-    #     if len(pred) == len(gt):
-    #         for j in range(len(pred)):
-    #             if pred[j] != gt[j]:
-    #                 f.write(video + '\n')
-    #                 f.write('->'.join(print_preds) + '\n')
-    #                 f.write('->'.join(print_gts) + '\n')
-    #                 f.write('\n')
-    #                 break
-    #     else:
-    #         f.write(video + '\n')
-    #         f.write('->'.join(print_preds) + '\n')
-    #         f.write('->'.join(print_gts) + '\n')
-    #         f.write('\n')
-
-    #     edit_scores.append(edit_score(pred, gt))
-
-    # f.close()
-
-    # f1, count = 0, 0
-    # for value in f1_event.values():
-    #     if sum(value) == 0:
-    #         continue
-    #     precision = value[0] / (value[0] + value[1] + 1e-10)
-    #     recall = value[0] / (value[0] + value[2] + 1e-10)
-    #     f1 += 2 * precision * recall / (precision + recall + 1e-10)
-    #     count += 1
-    # f1 /= count
-
-    # print('Mean F1 (event):', np.mean(f1))
-    # print()
-
-    # precision = f1_element[:, 0] / (f1_element[:, 0] + f1_element[:, 1] + 1e-10)
-    # recall = f1_element[:, 0] / (f1_element[:, 0] + f1_element[:, 2] + 1e-10)
-    # f1 = 2 * precision * recall / (precision + recall + 1e-10)
-    # print('Mean F1 (element):', np.mean(f1))
-    # print()
-
-    # print('Edit score:', sum(edit_scores) / len(edit_scores))
-    # return sum(edit_scores) / len(edit_scores)
+    print('Edit score:', sum(edit_scores) / len(edit_scores))
+    return sum(edit_scores) / len(edit_scores)
 
 
 def get_last_epoch(save_dir):
