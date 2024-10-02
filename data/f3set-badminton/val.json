@@ -1,0 +1,1330 @@
+[
+  {
+    "video": "Indias_Lakshya_Sen_loses_Mens_Badminton_Singles_Semi-Final_Paris_2024_Highlights_302_612",
+    "fps": 25,
+    "num_frames": 310,
+    "events": [
+      {
+        "frame": 4,
+        "label": "near_right_backhand_serve-short_w_in"
+      },
+      {
+        "frame": 23,
+        "label": "near_right_forehand_net_cc_in"
+      },
+      {
+        "frame": 45,
+        "label": "near_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 64,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 92,
+        "label": "far_left_forehand_drop_dm_in"
+      },
+      {
+        "frame": 109,
+        "label": "near_middle_backhand_net_cc_in"
+      },
+      {
+        "frame": 130,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 153,
+        "label": "far_left_forehand_smash_cc_in"
+      },
+      {
+        "frame": 167,
+        "label": "near_middle_backhand_net_cc_in"
+      },
+      {
+        "frame": 188,
+        "label": "near_right_forehand_lob_cc_in"
+      },
+      {
+        "frame": 206,
+        "label": "far_middle_forehand_drop_dl_in"
+      },
+      {
+        "frame": 228,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 257,
+        "label": "far_left_forehand_smash_cc_in"
+      },
+      {
+        "frame": 266,
+        "label": "far_middle_backhand_lob_dl_in"
+      },
+      {
+        "frame": 291,
+        "label": "near_middle_forehand_smash_cc_winner"
+      }
+    ]
+  },
+  {
+    "video": "Lakshya_Sen_enters_round_of_16_in_mens_badminton_singles_Paris_2024_highlights-1_3528_3734",
+    "fps": 25,
+    "num_frames": 206,
+    "events": [
+      {
+        "frame": 8,
+        "label": "far_right_backhand_serve-short_t_in"
+      },
+      {
+        "frame": 24,
+        "label": "near_middle_forehand_net_dm_in"
+      },
+      {
+        "frame": 44,
+        "label": "far_middle_backhand_lob_dm_in"
+      },
+      {
+        "frame": 86,
+        "label": "near_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 95,
+        "label": "far_right_forehand_drive_cc_in"
+      },
+      {
+        "frame": 117,
+        "label": "near_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 132,
+        "label": "far_left_backhand_net_cc_in"
+      },
+      {
+        "frame": 152,
+        "label": "near_middle_forehand_drive_cc_in"
+      },
+      {
+        "frame": 160,
+        "label": "far_right_forehand_drive_cc_in"
+      },
+      {
+        "frame": 174,
+        "label": "near_middle_forehand_smash_dm_in"
+      },
+      {
+        "frame": 181,
+        "label": "far_middle_backhand_drive_dm_in"
+      },
+      {
+        "frame": 195,
+        "label": "near_left_forehand_smash_dl_winner"
+      }
+    ]
+  },
+  {
+    "video": "10_minutes_of_winning_shots_in_mens_badminton_10188_10741",
+    "fps": 25,
+    "num_frames": 553,
+    "events": [
+      {
+        "frame": 8,
+        "label": "near_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 28,
+        "label": "far_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 44,
+        "label": "near_middle_forehand_lob_cc_in"
+      },
+      {
+        "frame": 74,
+        "label": "far_right_forehand_smash_dl_in"
+      },
+      {
+        "frame": 85,
+        "label": "near_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 106,
+        "label": "far_right_backhand_net_dl_in"
+      },
+      {
+        "frame": 126,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 162,
+        "label": "far_left_forehand_smash_dm_in"
+      },
+      {
+        "frame": 174,
+        "label": "near_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 200,
+        "label": "far_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 250,
+        "label": "near_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 263,
+        "label": "far_middle_forehand_net_dl_in"
+      },
+      {
+        "frame": 282,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 312,
+        "label": "far_left_forehand_smash_cc_in"
+      },
+      {
+        "frame": 320,
+        "label": "near_middle_forehand_net_dm_in"
+      },
+      {
+        "frame": 344,
+        "label": "far_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 366,
+        "label": "near_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 392,
+        "label": "far_left_backhand_lob_dm_in"
+      },
+      {
+        "frame": 450,
+        "label": "near_middle_forehand_clear_cc_in"
+      },
+      {
+        "frame": 483,
+        "label": "far_right_forehand_drop_cc_in"
+      },
+      {
+        "frame": 505,
+        "label": "near_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 536,
+        "label": "far_left_forehand_smash_dl_winner"
+      }
+    ]
+  },
+  {
+    "video": "10_minutes_of_winning_shots_in_mens_badminton_1372_1782",
+    "fps": 25,
+    "num_frames": 410,
+    "events": [
+      {
+        "frame": 9,
+        "label": "near_middle_backhand_net_cc_in"
+      },
+      {
+        "frame": 31,
+        "label": "far_left_backhand_clear_dl_in"
+      },
+      {
+        "frame": 59,
+        "label": "near_right_forehand_smash_dl_in"
+      },
+      {
+        "frame": 73,
+        "label": "far_middle_backhand_drive_dm_in"
+      },
+      {
+        "frame": 88,
+        "label": "near_middle_forehand_net_dm_in"
+      },
+      {
+        "frame": 100,
+        "label": "far_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 119,
+        "label": "near_middle_forehand_lob_cc_in"
+      },
+      {
+        "frame": 145,
+        "label": "far_right_forehand_clear_dl_in"
+      },
+      {
+        "frame": 178,
+        "label": "near_left_forehand_clear_cc_in"
+      },
+      {
+        "frame": 204,
+        "label": "far_left_forehand_drop_dl_in"
+      },
+      {
+        "frame": 219,
+        "label": "near_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 243,
+        "label": "far_middle_forehand_lob_cc_in"
+      },
+      {
+        "frame": 277,
+        "label": "near_middle_forehand_clear_dl_in"
+      },
+      {
+        "frame": 304,
+        "label": "far_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 313,
+        "label": "near_right_forehand_net_cc_in"
+      },
+      {
+        "frame": 344,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 368,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 393,
+        "label": "far_middle_backhand_smash_cc_winner"
+      }
+    ]
+  },
+  {
+    "video": "10_minutes_of_winning_shots_in_mens_badminton_7363_8767",
+    "fps": 25,
+    "num_frames": 1404,
+    "events": [
+      {
+        "frame": 8,
+        "label": "near_right_backhand_serve-short_w_in"
+      },
+      {
+        "frame": 27,
+        "label": "far_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 53,
+        "label": "near_left_backhand_clear_dl_in"
+      },
+      {
+        "frame": 80,
+        "label": "far_right_forehand_smash_cc_in"
+      },
+      {
+        "frame": 93,
+        "label": "near_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 118,
+        "label": "far_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 141,
+        "label": "near_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 181,
+        "label": "far_left_backhand_drive_dl_in"
+      },
+      {
+        "frame": 196,
+        "label": "near_right_forehand_drive_dl_in"
+      },
+      {
+        "frame": 213,
+        "label": "far_left_backhand_net_cc_in"
+      },
+      {
+        "frame": 239,
+        "label": "near_middle_backhand_net_dl_in"
+      },
+      {
+        "frame": 261,
+        "label": "far_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 288,
+        "label": "near_left_backhand_smash_dl_in"
+      },
+      {
+        "frame": 655,
+        "label": "near_middle_forehand_net_dm_in"
+      },
+      {
+        "frame": 673,
+        "label": "far_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 698,
+        "label": "near_middle_forehand_lob_dm_in"
+      },
+      {
+        "frame": 740,
+        "label": "far_middle_forehand_smash_cc_in"
+      },
+      {
+        "frame": 748,
+        "label": "near_middle_backhand_lob_dm_in"
+      },
+      {
+        "frame": 769,
+        "label": "far_middle_forehand_push_dm_in"
+      },
+      {
+        "frame": 776,
+        "label": "near_middle_backhand_lob_cc_in"
+      },
+      {
+        "frame": 803,
+        "label": "far_middle_forehand_clear_dm_in"
+      },
+      {
+        "frame": 849,
+        "label": "near_middle_forehand_smash_dl_in"
+      },
+      {
+        "frame": 860,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 881,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 906,
+        "label": "far_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 917,
+        "label": "near_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 940,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 956,
+        "label": "near_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 976,
+        "label": "far_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 1016,
+        "label": "near_left_forehand_drop_dl_in"
+      },
+      {
+        "frame": 1034,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 1057,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 1098,
+        "label": "far_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 1111,
+        "label": "near_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 1132,
+        "label": "far_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 1158,
+        "label": "near_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 1181,
+        "label": "far_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 1236,
+        "label": "near_middle_forehand_smash_dl_in"
+      },
+      {
+        "frame": 1247,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 1264,
+        "label": "near_left_forehand_rush_cc_in"
+      },
+      {
+        "frame": 1275,
+        "label": "far_middle_backhand_lob_dm_in"
+      },
+      {
+        "frame": 1298,
+        "label": "near_middle_forehand_smash_cc_in"
+      },
+      {
+        "frame": 1311,
+        "label": "far_middle_forehand_net_dl_in"
+      },
+      {
+        "frame": 1337,
+        "label": "near_middle_backhand_lob_dl_in"
+      },
+      {
+        "frame": 1358,
+        "label": "far_right_forehand_smash_dl_in"
+      },
+      {
+        "frame": 1366,
+        "label": "near_middle_backhand_lob_dl_in"
+      },
+      {
+        "frame": 1384,
+        "label": "far_right_forehand_smash_cc_winner"
+      }
+    ]
+  },
+  {
+    "video": "Lakshya_Sen_enters_round_of_16_in_mens_badminton_singles_Paris_2024_highlights-1_3284_3377",
+    "fps": 25,
+    "num_frames": 93,
+    "events": [
+      {
+        "frame": 10,
+        "label": "far_left_backhand_serve-long_b_in"
+      },
+      {
+        "frame": 36,
+        "label": "near_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 46,
+        "label": "far_right_forehand_drive_dl_in"
+      },
+      {
+        "frame": 67,
+        "label": "near_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 73,
+        "label": "far_right_backhand_lob_dl_winner"
+      }
+    ]
+  },
+  {
+    "video": "Indias_Lakshya_Sen_loses_Mens_Badminton_Singles_Semi-Final_Paris_2024_Highlights_1934_2231",
+    "fps": 25,
+    "num_frames": 297,
+    "events": [
+      {
+        "frame": 4,
+        "label": "near_right_backhand_serve-short_b_in"
+      },
+      {
+        "frame": 23,
+        "label": "near_right_backhand_net_cc_in"
+      },
+      {
+        "frame": 46,
+        "label": "near_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 80,
+        "label": "far_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 94,
+        "label": "far_middle_forehand_net_dl_in"
+      },
+      {
+        "frame": 115,
+        "label": "near_left_backhand_push_dl_in"
+      },
+      {
+        "frame": 128,
+        "label": "far_right_forehand_drive_dl_in"
+      },
+      {
+        "frame": 136,
+        "label": "near_left_backhand_drive_cc_in"
+      },
+      {
+        "frame": 148,
+        "label": "near_right_backhand_net_dm_in"
+      },
+      {
+        "frame": 165,
+        "label": "near_middle_forehand_push_cc_in"
+      },
+      {
+        "frame": 176,
+        "label": "near_middle_forehand_lob_cc_in"
+      },
+      {
+        "frame": 216,
+        "label": "far_right_forehand_drop_dl_in"
+      },
+      {
+        "frame": 240,
+        "label": "near_left_backhand_push_dl_in"
+      },
+      {
+        "frame": 261,
+        "label": "far_right_forehand_clear_dl_in"
+      },
+      {
+        "frame": 287,
+        "label": "near_left_forehand_smash_dl_winner"
+      }
+    ]
+  },
+  {
+    "video": "10_minutes_of_winning_shots_in_mens_badminton_13429_14203",
+    "fps": 25,
+    "num_frames": 774,
+    "events": [
+      {
+        "frame": 4,
+        "label": "near_right_backhand_serve-short_t_in"
+      },
+      {
+        "frame": 19,
+        "label": "far_middle_backhand_lob_cc_in"
+      },
+      {
+        "frame": 49,
+        "label": "near_left_forehand_smash_cc_in"
+      },
+      {
+        "frame": 61,
+        "label": "far_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 91,
+        "label": "near_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 126,
+        "label": "far_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 136,
+        "label": "near_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 155,
+        "label": "far_left_backhand_push_cc_in"
+      },
+      {
+        "frame": 166,
+        "label": "near_middle_backhand_lob_dm_in"
+      },
+      {
+        "frame": 179,
+        "label": "far_middle_forehand_smash_dm_in"
+      },
+      {
+        "frame": 186,
+        "label": "near_middle_backhand_lob_dm_in"
+      },
+      {
+        "frame": 211,
+        "label": "far_right_forehand_smash_cc_in"
+      },
+      {
+        "frame": 221,
+        "label": "near_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 248,
+        "label": "far_left_backhand_lob_dl_in"
+      },
+      {
+        "frame": 270,
+        "label": "near_right_forehand_smash_dl_in"
+      },
+      {
+        "frame": 281,
+        "label": "far_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 302,
+        "label": "near_right_forehand_net_cc_in"
+      },
+      {
+        "frame": 320,
+        "label": "far_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 352,
+        "label": "near_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 360,
+        "label": "far_right_forehand_net_cc_in"
+      },
+      {
+        "frame": 387,
+        "label": "near_middle_forehand_net_dl_in"
+      },
+      {
+        "frame": 411,
+        "label": "far_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 437,
+        "label": "near_right_forehand_lob_cc_in"
+      },
+      {
+        "frame": 479,
+        "label": "far_right_forehand_drop_dl_in"
+      },
+      {
+        "frame": 493,
+        "label": "near_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 512,
+        "label": "far_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 540,
+        "label": "near_left_forehand_smash_cc_in"
+      },
+      {
+        "frame": 551,
+        "label": "far_middle_backhand_net_dm_in"
+      },
+      {
+        "frame": 573,
+        "label": "near_middle_backhand_net_cc_in"
+      },
+      {
+        "frame": 595,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 635,
+        "label": "near_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 646,
+        "label": "far_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 671,
+        "label": "near_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 700,
+        "label": "far_left_forehand_smash_cc_in"
+      },
+      {
+        "frame": 712,
+        "label": "near_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 739,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 764,
+        "label": "near_left_backhand_lob_cc_winner"
+      }
+    ]
+  },
+  {
+    "video": "Indias_Lakshya_Sen_loses_Mens_Badminton_Singles_Semi-Final_Paris_2024_Highlights_2354_2395",
+    "fps": 25,
+    "num_frames": 41,
+    "events": [
+      {
+        "frame": 4,
+        "label": "near_right_backhand_serve-short_b_in"
+      },
+      {
+        "frame": 21,
+        "label": "near_right_backhand_lob_cc_err"
+      }
+    ]
+  },
+  {
+    "video": "Kunlavut_Vitidsarn_enters_Mens_Badminton_Singles_Final_Paris_2024_Highlights_6_329",
+    "fps": 30,
+    "num_frames": 323,
+    "events": [
+      {
+        "frame": 4,
+        "label": "far_middle_backhand_net_cc_in"
+      },
+      {
+        "frame": 23,
+        "label": "near_middle_backhand_net_dm_in"
+      },
+      {
+        "frame": 50,
+        "label": "far_middle_backhand_lob_dm_in"
+      },
+      {
+        "frame": 84,
+        "label": "near_left_forehand_drop_cc_in"
+      },
+      {
+        "frame": 106,
+        "label": "far_middle_backhand_net_dm_in"
+      },
+      {
+        "frame": 131,
+        "label": "near_middle_forehand_lob_cc_in"
+      },
+      {
+        "frame": 170,
+        "label": "far_right_forehand_drive_dl_in"
+      },
+      {
+        "frame": 196,
+        "label": "near_left_backhand_lob_dl_in"
+      },
+      {
+        "frame": 224,
+        "label": "far_right_forehand_drop_dm_in"
+      },
+      {
+        "frame": 238,
+        "label": "near_middle_backhand_net_cc_in"
+      },
+      {
+        "frame": 261,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 290,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 304,
+        "label": "far_middle_forehand_rush_cc_winner"
+      }
+    ]
+  },
+  {
+    "video": "Chou_(Chinese_Taipei)_vs_Sen_(India)__Mens_Singles_Quarter-Finals__Badminton__Paris_2024_11519_11581",
+    "fps": 25,
+    "num_frames": 62,
+    "events": [
+      {
+        "frame": 2,
+        "label": "near_left_backhand_serve-long_b_in"
+      },
+      {
+        "frame": 26,
+        "label": "far_middle_forehand_smash_dl_in"
+      },
+      {
+        "frame": 48,
+        "label": "near_middle_forehand_net_cc_err"
+      }
+    ]
+  },
+  {
+    "video": "10_minutes_of_winning_shots_in_mens_badminton_11335_11743",
+    "fps": 25,
+    "num_frames": 408,
+    "events": [
+      {
+        "frame": 4,
+        "label": "near_right_backhand_serve-long_w_in"
+      },
+      {
+        "frame": 32,
+        "label": "far_right_forehand_smash_dl_in"
+      },
+      {
+        "frame": 50,
+        "label": "near_left_backhand_lob_dl_in"
+      },
+      {
+        "frame": 71,
+        "label": "far_right_forehand_smash_dl_in"
+      },
+      {
+        "frame": 82,
+        "label": "near_left_backhand_net_cc_in"
+      },
+      {
+        "frame": 93,
+        "label": "far_middle_forehand_drive_dm_in"
+      },
+      {
+        "frame": 107,
+        "label": "near_middle_backhand_net_cc_in"
+      },
+      {
+        "frame": 129,
+        "label": "far_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 148,
+        "label": "near_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 172,
+        "label": "far_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 224,
+        "label": "near_left_forehand_smash_cc_in"
+      },
+      {
+        "frame": 234,
+        "label": "far_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 258,
+        "label": "near_middle_forehand_lob_dl_in"
+      },
+      {
+        "frame": 284,
+        "label": "far_left_backhand_clear_cc_in"
+      },
+      {
+        "frame": 314,
+        "label": "near_left_backhand_drive_cc_in"
+      },
+      {
+        "frame": 340,
+        "label": "far_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 358,
+        "label": "near_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 391,
+        "label": "far_left_forehand_smash_cc_winner"
+      }
+    ]
+  },
+  {
+    "video": "Kunlavut_Vitidsarn_enters_Mens_Badminton_Singles_Final_Paris_2024_Highlights_3492_3614",
+    "fps": 30,
+    "num_frames": 122,
+    "events": [
+      {
+        "frame": 8,
+        "label": "near_left_backhand_serve-short_t_in"
+      },
+      {
+        "frame": 30,
+        "label": "far_middle_backhand_net_cc_in"
+      },
+      {
+        "frame": 51,
+        "label": "near_left_backhand_net_cc_in"
+      },
+      {
+        "frame": 73,
+        "label": "far_middle_forehand_lob_cc_in"
+      },
+      {
+        "frame": 93,
+        "label": "near_right_forehand_clear_dl_in"
+      },
+      {
+        "frame": 111,
+        "label": "far_left_backhand_smash_cc_winner"
+      }
+    ]
+  },
+  {
+    "video": "Chou_(Chinese_Taipei)_vs_Sen_(India)__Mens_Singles_Quarter-Finals__Badminton__Paris_2024_11145_11314",
+    "fps": 25,
+    "num_frames": 169,
+    "events": [
+      {
+        "frame": 5,
+        "label": "far_left_backhand_serve-short_t_in"
+      },
+      {
+        "frame": 24,
+        "label": "near_middle_forehand_net_dl_in"
+      },
+      {
+        "frame": 44,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 66,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 121,
+        "label": "far_middle_forehand_smash_dm_in"
+      },
+      {
+        "frame": 133,
+        "label": "near_middle_backhand_drive_dm_in"
+      },
+      {
+        "frame": 145,
+        "label": "far_middle_backhand_lob_dm_in"
+      },
+      {
+        "frame": 158,
+        "label": "near_left_forehand_smash_dl_winner"
+      }
+    ]
+  },
+  {
+    "video": "Chou_(Chinese_Taipei)_vs_Sen_(India)__Mens_Singles_Quarter-Finals__Badminton__Paris_2024_2916_3218",
+    "fps": 25,
+    "num_frames": 302,
+    "events": [
+      {
+        "frame": 9,
+        "label": "far_right_backhand_serve-short_b_in"
+      },
+      {
+        "frame": 29,
+        "label": "near_middle_backhand_lob_cc_in"
+      },
+      {
+        "frame": 57,
+        "label": "far_right_forehand_drop_dl_in"
+      },
+      {
+        "frame": 75,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 106,
+        "label": "far_left_backhand_drop_dl_in"
+      },
+      {
+        "frame": 119,
+        "label": "near_middle_forehand_drive_dl_in"
+      },
+      {
+        "frame": 130,
+        "label": "far_left_backhand_lob_dl_in"
+      },
+      {
+        "frame": 154,
+        "label": "near_right_forehand_smash_dl_in"
+      },
+      {
+        "frame": 165,
+        "label": "far_middle_backhand_net_cc_in"
+      },
+      {
+        "frame": 188,
+        "label": "near_middle_backhand_lob_cc_in"
+      },
+      {
+        "frame": 215,
+        "label": "far_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 224,
+        "label": "near_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 249,
+        "label": "far_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 267,
+        "label": "near_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 285,
+        "label": "far_right_forehand_smash_dl_winner"
+      }
+    ]
+  },
+  {
+    "video": "10_minutes_of_winning_shots_in_mens_badminton_9099_9215",
+    "fps": 25,
+    "num_frames": 116,
+    "events": [
+      {
+        "frame": 8,
+        "label": "far_left_forehand_serve-short_t_in"
+      },
+      {
+        "frame": 19,
+        "label": "near_left_forehand_net_dl_in"
+      },
+      {
+        "frame": 34,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 55,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 83,
+        "label": "far_left_backhand_clear_dl_in"
+      },
+      {
+        "frame": 99,
+        "label": "near_right_forehand_smash_cc_winner"
+      }
+    ]
+  },
+  {
+    "video": "Indias_Lakshya_Sen_loses_Mens_Badminton_Singles_Semi-Final_Paris_2024_Highlights_90_221",
+    "fps": 25,
+    "num_frames": 131,
+    "events": [
+      {
+        "frame": 5,
+        "label": "near_left_backhand_serve-short_b_in"
+      },
+      {
+        "frame": 23,
+        "label": "near_left_forehand_net_cc_in"
+      },
+      {
+        "frame": 40,
+        "label": "near_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 61,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 92,
+        "label": "far_left_forehand_clear_dl_in"
+      },
+      {
+        "frame": 120,
+        "label": "far_right_forehand_smash_cc_winner"
+      }
+    ]
+  },
+  {
+    "video": "Kunlavut_Vitidsarn_enters_Mens_Badminton_Singles_Final_Paris_2024_Highlights_2415_2998",
+    "fps": 30,
+    "num_frames": 583,
+    "events": [
+      {
+        "frame": 7,
+        "label": "near_left_forehand_net_dl_in"
+      },
+      {
+        "frame": 29,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 52,
+        "label": "near_left_backhand_net_cc_in"
+      },
+      {
+        "frame": 76,
+        "label": "far_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 101,
+        "label": "near_right_forehand_net_cc_in"
+      },
+      {
+        "frame": 123,
+        "label": "far_middle_forehand_lob_cc_in"
+      },
+      {
+        "frame": 163,
+        "label": "near_middle_forehand_drive_dm_in"
+      },
+      {
+        "frame": 177,
+        "label": "far_middle_backhand_net_cc_in"
+      },
+      {
+        "frame": 192,
+        "label": "near_middle_backhand_net_dl_in"
+      },
+      {
+        "frame": 215,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 240,
+        "label": "near_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 262,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 287,
+        "label": "near_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 312,
+        "label": "far_right_forehand_lob_cc_in"
+      },
+      {
+        "frame": 363,
+        "label": "near_right_forehand_drive_dl_in"
+      },
+      {
+        "frame": 380,
+        "label": "far_left_backhand_drive_dl_in"
+      },
+      {
+        "frame": 397,
+        "label": "near_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 421,
+        "label": "far_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 447,
+        "label": "near_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 472,
+        "label": "far_right_forehand_net_dl_in"
+      },
+      {
+        "frame": 499,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 525,
+        "label": "far_middle_backhand_clear_dm_in"
+      },
+      {
+        "frame": 570,
+        "label": "near_left_forehand_smash_cc_winner"
+      }
+    ]
+  },
+  {
+    "video": "Chou_(Chinese_Taipei)_vs_Sen_(India)__Mens_Singles_Quarter-Finals__Badminton__Paris_2024_13562_13909",
+    "fps": 25,
+    "num_frames": 347,
+    "events": [
+      {
+        "frame": 6,
+        "label": "far_left_backhand_serve-long_b_in"
+      },
+      {
+        "frame": 31,
+        "label": "near_left_forehand_drop_cc_in"
+      },
+      {
+        "frame": 49,
+        "label": "far_middle_forehand_net_cc_in"
+      },
+      {
+        "frame": 70,
+        "label": "near_middle_forehand_lob_cc_in"
+      },
+      {
+        "frame": 104,
+        "label": "far_right_forehand_clear_dl_in"
+      },
+      {
+        "frame": 142,
+        "label": "near_left_forehand_smash_dl_in"
+      },
+      {
+        "frame": 151,
+        "label": "far_right_forehand_lob_cc_in"
+      },
+      {
+        "frame": 175,
+        "label": "near_middle_forehand_drive_dl_in"
+      },
+      {
+        "frame": 186,
+        "label": "far_left_backhand_net_cc_in"
+      },
+      {
+        "frame": 209,
+        "label": "near_middle_backhand_lob_dl_in"
+      },
+      {
+        "frame": 236,
+        "label": "far_right_forehand_drop_dl_in"
+      },
+      {
+        "frame": 262,
+        "label": "near_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 284,
+        "label": "far_right_forehand_lob_dl_in"
+      },
+      {
+        "frame": 335,
+        "label": "near_left_forehand_smash_dl_err"
+      }
+    ]
+  },
+  {
+    "video": "10_minutes_of_winning_shots_in_mens_badminton_4710_4992",
+    "fps": 25,
+    "num_frames": 282,
+    "events": [
+      {
+        "frame": 7,
+        "label": "near_left_backhand_serve-short_t_in"
+      },
+      {
+        "frame": 24,
+        "label": "far_middle_backhand_lob_cc_in"
+      },
+      {
+        "frame": 56,
+        "label": "near_right_forehand_drive_dl_in"
+      },
+      {
+        "frame": 68,
+        "label": "far_middle_forehand_drive_cc_in"
+      },
+      {
+        "frame": 79,
+        "label": "near_middle_forehand_net_dm_in"
+      },
+      {
+        "frame": 97,
+        "label": "far_middle_backhand_drive_cc_in"
+      },
+      {
+        "frame": 115,
+        "label": "near_left_backhand_drop_dl_in"
+      },
+      {
+        "frame": 134,
+        "label": "far_right_backhand_net_dl_in"
+      },
+      {
+        "frame": 160,
+        "label": "near_left_backhand_net_dl_in"
+      },
+      {
+        "frame": 184,
+        "label": "far_right_backhand_net_dl_in"
+      },
+      {
+        "frame": 206,
+        "label": "near_left_backhand_lob_cc_in"
+      },
+      {
+        "frame": 264,
+        "label": "far_middle_forehand_smash_cc_winner"
+      }
+    ]
+  }
+]
