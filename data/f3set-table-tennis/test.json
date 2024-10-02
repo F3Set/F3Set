@@ -1,0 +1,535 @@
+[
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_79_144",
+    "fps": 25,
+    "num_frames": 65,
+    "events": [
+      {
+        "frame": 2,
+        "label": "near_left_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 17,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 35,
+        "label": "near_left_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 45,
+        "label": "far_right_backhand_top_push_straight-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_291_422",
+    "fps": 25,
+    "num_frames": 131,
+    "events": [
+      {
+        "frame": 3,
+        "label": "far_right_forehand_bottom_serve_diagonal-short_in"
+      },
+      {
+        "frame": 23,
+        "label": "near_left_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 38,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 48,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 58,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 73,
+        "label": "near_left_backhand_bottom_push_diagonal-long_in"
+      },
+      {
+        "frame": 89,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 100,
+        "label": "near_left_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 108,
+        "label": "far_right_backhand_top_block_straight-long_in"
+      },
+      {
+        "frame": 121,
+        "label": "near_right_forehand_top_drive_diagonal-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_587_688",
+    "fps": 25,
+    "num_frames": 101,
+    "events": [
+      {
+        "frame": 4,
+        "label": "far_right_forehand_side_serve_straight-short_in"
+      },
+      {
+        "frame": 34,
+        "label": "far_left_forehand_top_drive_straight-long_in"
+      },
+      {
+        "frame": 44,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 57,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 72,
+        "label": "near_middle_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 91,
+        "label": "far_right_forehand_top_drive_diagonal-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_904_986",
+    "fps": 25,
+    "num_frames": 82,
+    "events": [
+      {
+        "frame": 4,
+        "label": "far_right_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 21,
+        "label": "near_middle_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 38,
+        "label": "far_right_forehand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 55,
+        "label": "near_left_backhand_top_drive_straight-long_in"
+      },
+      {
+        "frame": 64,
+        "label": "far_left_forehand_top_drive_straight-long_out"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_1157_1259",
+    "fps": 25,
+    "num_frames": 102,
+    "events": [
+      {
+        "frame": 6,
+        "label": "far_right_forehand_bottom_serve_diagonal-short_in"
+      },
+      {
+        "frame": 26,
+        "label": "near_left_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 42,
+        "label": "far_right_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 52,
+        "label": "near_left_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 63,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 83,
+        "label": "near_left_backhand_top_drive_diagonal-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_1448_1481",
+    "fps": 25,
+    "num_frames": 33,
+    "events": [
+      {
+        "frame": 6,
+        "label": "near_left_forehand_side_serve_straight-short_in"
+      },
+      {
+        "frame": 16,
+        "label": "far_left_forehand_bottom_chop_diagonal-long_out"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_1612_1704",
+    "fps": 25,
+    "num_frames": 92,
+    "events": [
+      {
+        "frame": 7,
+        "label": "near_left_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 17,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 29,
+        "label": "near_left_backhand_top_chop_diagonal-short_in"
+      },
+      {
+        "frame": 50,
+        "label": "far_right_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 66,
+        "label": "near_left_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 74,
+        "label": "far_middle_forehand_top_drive_diagonal-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_1861_2057",
+    "fps": 25,
+    "num_frames": 196,
+    "events": [
+      {
+        "frame": 6,
+        "label": "near_left_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 24,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 29,
+        "label": "near_left_backhand_bottom_push_diagonal-long_in"
+      },
+      {
+        "frame": 47,
+        "label": "far_right_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 64,
+        "label": "near_left_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 73,
+        "label": "far_right_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 83,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 104,
+        "label": "far_middle_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 111,
+        "label": "near_right_forehand_top_block_straight-long_in"
+      },
+      {
+        "frame": 118,
+        "label": "far_right_backhand_top_push_diagonal-short_in"
+      },
+      {
+        "frame": 137,
+        "label": "near_left_backhand_bottom_push_diagonal-long_in"
+      },
+      {
+        "frame": 152,
+        "label": "far_right_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 173,
+        "label": "near_left_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 180,
+        "label": "far_right_backhand_top_block_straight-long_out"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_2221_2357",
+    "fps": 25,
+    "num_frames": 136,
+    "events": [
+      {
+        "frame": 4,
+        "label": "far_right_forehand_side_serve_straight-short_in"
+      },
+      {
+        "frame": 21,
+        "label": "near_right_forehand_bottom_chop_straight-long_in"
+      },
+      {
+        "frame": 36,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 43,
+        "label": "near_left_backhand_bottom_push_diagonal-long_in"
+      },
+      {
+        "frame": 62,
+        "label": "far_right_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 80,
+        "label": "near_left_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 88,
+        "label": "far_right_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 101,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 116,
+        "label": "far_right_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 123,
+        "label": "near_left_backhand_top_push_straight-long_out"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_2480_2596",
+    "fps": 25,
+    "num_frames": 116,
+    "events": [
+      {
+        "frame": 6,
+        "label": "near_left_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 21,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 28,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 54,
+        "label": "far_right_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 69,
+        "label": "near_left_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 92,
+        "label": "far_right_forehand_top_smash_straight-long_in"
+      },
+      {
+        "frame": 102,
+        "label": "near_middle_backhand_top_block_diagonal-long_out"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_2811_2934",
+    "fps": 25,
+    "num_frames": 123,
+    "events": [
+      {
+        "frame": 2,
+        "label": "far_right_backhand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 24,
+        "label": "near_left_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 38,
+        "label": "far_middle_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 56,
+        "label": "near_left_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 72,
+        "label": "far_right_forehand_top_push_straight-long_in"
+      },
+      {
+        "frame": 113,
+        "label": "near_right_forehand_top_smash_diagonal-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_3122_3196",
+    "fps": 25,
+    "num_frames": 74,
+    "events": [
+      {
+        "frame": 2,
+        "label": "near_left_forehand_side_serve_straight-long_in"
+      },
+      {
+        "frame": 15,
+        "label": "far_left_forehand_top_push_straight-long_in"
+      },
+      {
+        "frame": 25,
+        "label": "near_left_backhand_bottom_drive_diagonal-long_in"
+      },
+      {
+        "frame": 33,
+        "label": "far_right_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 56,
+        "label": "near_left_forehand_top_drive_diagonal-long_in"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_3322_3424",
+    "fps": 25,
+    "num_frames": 102,
+    "events": [
+      {
+        "frame": 2,
+        "label": "near_left_forehand_side_serve_straight-short_in"
+      },
+      {
+        "frame": 22,
+        "label": "far_left_backhand_top_push_straight-long_in"
+      },
+      {
+        "frame": 30,
+        "label": "near_left_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 40,
+        "label": "far_right_backhand_bottom_push_diagonal-long_in"
+      },
+      {
+        "frame": 73,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 83,
+        "label": "near_left_backhand_bottom_drive_diagonal-long_in"
+      },
+      {
+        "frame": 90,
+        "label": "far_right_backhand_top_push_diagonal-long_out"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_3542_3816",
+    "fps": 25,
+    "num_frames": 274,
+    "events": [
+      {
+        "frame": 10,
+        "label": "far_right_forehand_bottom_serve_straight-short_in"
+      },
+      {
+        "frame": 25,
+        "label": "near_right_forehand_bottom_chop_straight-long_in"
+      },
+      {
+        "frame": 43,
+        "label": "far_middle_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 51,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 71,
+        "label": "far_right_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 90,
+        "label": "near_left_forehand_top_drive_straight-long_in"
+      },
+      {
+        "frame": 98,
+        "label": "far_left_forehand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 119,
+        "label": "near_middle_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 142,
+        "label": "far_right_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 155,
+        "label": "near_middle_backhand_top_push_straight-long_in"
+      },
+      {
+        "frame": 167,
+        "label": "far_left_forehand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 193,
+        "label": "far_middle_backhand_bottom_chop_straight-short_in"
+      },
+      {
+        "frame": 217,
+        "label": "near_middle_forehand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 235,
+        "label": "far_right_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 254,
+        "label": "near_left_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 262,
+        "label": "far_right_backhand_top_block_straight-long_out"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_knocked_out_by_Sun_Yingsha_in_womens_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_3957_4016",
+    "fps": 25,
+    "num_frames": 59,
+    "events": [
+      {
+        "frame": 3,
+        "label": "near_left_forehand_bottom_serve_diagonal-long_in"
+      },
+      {
+        "frame": 20,
+        "label": "far_right_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 39,
+        "label": "near_middle_forehand_top_drive_diagonal-long_winner"
+      }
+    ]
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "video": "INSANE_table_tennis_winners_at_#Paris2024_-_Olympics_(720p50,_h264,_youtube)_3187_3753",
+    "fps": 50,
+    "num_frames": 566,
+    "events": [
+      {
+        "frame": 9,
+        "label": "far_left_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 46,
+        "label": "near_right_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 82,
+        "label": "far_left_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 123,
+        "label": "near_middle_forehand_top_drive_straight-long_in"
+      },
+      {
+        "frame": 172,
+        "label": "far_middle_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 195,
+        "label": "near_left_backhand_bottom_chop_straight-long_in"
+      },
+      {
+        "frame": 253,
+        "label": "far_middle_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 279,
+        "label": "near_right_forehand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 326,
+        "label": "far_middle_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 356,
+        "label": "near_middle_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 406,
+        "label": "far_left_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 431,
+        "label": "near_left_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 494,
+        "label": "far_middle_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 525,
+        "label": "near_right_forehand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 550,
+        "label": "far_left_forehand_top_smash_diagonal-long_in"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_qualifies_for_round_of_16_in_women's_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_518_606",
+    "fps": 25,
+    "num_frames": 88,
+    "events": [
+      {
+        "frame": 5,
+        "label": "near_left_forehand_top_serve_diagonal-long_in"
+      },
+      {
+        "frame": 50,
+        "label": "far_right_backhand_bottom_push_diagonal-long_in"
+      },
+      {
+        "frame": 61,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 71,
+        "label": "far_right_backhand_top_block_diagonal-short_out"
+      }
+    ]
+  },
+  {
+    "video": "Women's_Singles_Table_Tennis_Final___Paris_Champions_-_Olympics_(720p60,_h264,_youtube)_3521_3802",
+    "fps": 60,
+    "num_frames": 281,
+    "events": [
+      {
+        "frame": 4,
+        "label": "far_left_forehand_top_smash_straight-long_in"
+      },
+      {
+        "frame": 40,
+        "label": "near_middle_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 120,
+        "label": "far_right_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 165,
+        "label": "near_left_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 226,
+        "label": "far_middle_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 261,
+        "label": "near_left_backhand_top_block_diagonal-long_out"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_qualifies_for_round_of_16_in_women's_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_1247_1314",
+    "fps": 25,
+    "num_frames": 67,
+    "events": [
+      {
+        "frame": 10,
+        "label": "near_left_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 28,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 38,
+        "label": "near_left_backhand_top_chop_diagonal-short_in"
+      },
+      {
+        "frame": 52,
+        "label": "far_right_backhand_bottom_chop_diagonal-short_out"
+      }
+    ]
+  },
+  {
+    "video": "Women's_Singles_Table_Tennis_Final___Paris_Champions_-_Olympics_(720p60,_h264,_youtube)_2961_3118",
+    "fps": 60,
+    "num_frames": 157,
+    "events": [
+      {
+        "frame": 2,
+        "label": "far_right_forehand_side_serve_straight-long_in"
+      },
+      {
+        "frame": 32,
+        "label": "near_right_forehand_top_push_straight-long_in"
+      },
+      {
+        "frame": 62,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 87,
+        "label": "near_middle_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 112,
+        "label": "far_left_forehand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 142,
+        "label": "near_right_forehand_top_smash_diagonal-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_qualifies_for_round_of_16_in_women's_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_1506_1579",
+    "fps": 25,
+    "num_frames": 73,
+    "events": [
+      {
+        "frame": 5,
+        "label": "near_left_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 17,
+        "label": "far_right_backhand_bottom_chop_diagonal-short_in"
+      },
+      {
+        "frame": 36,
+        "label": "near_left_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 53,
+        "label": "far_right_forehand_top_smash_straight-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_qualifies_for_round_of_16_in_women's_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_2506_2652",
+    "fps": 25,
+    "num_frames": 146,
+    "events": [
+      {
+        "frame": 10,
+        "label": "near_left_forehand_side_serve_straight-short_in"
+      },
+      {
+        "frame": 29,
+        "label": "far_left_forehand_bottom_chop_straight-short_in"
+      },
+      {
+        "frame": 41,
+        "label": "near_left_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 55,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 64,
+        "label": "near_left_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 77,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 90,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 109,
+        "label": "far_right_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 118,
+        "label": "near_left_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 128,
+        "label": "far_right_backhand_top_push_diagonal-short_winner"
+      }
+    ]
+  },
+  {
+    "video": "INSANE_table_tennis_winners_at_#Paris2024_-_Olympics_(720p50,_h264,_youtube)_4374_4790",
+    "fps": 50,
+    "num_frames": 416,
+    "events": [
+      {
+        "frame": 3,
+        "label": "near_right_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 43,
+        "label": "far_middle_backhand_bottom_chop_straight-long_in"
+      },
+      {
+        "frame": 85,
+        "label": "near_middle_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 126,
+        "label": "far_left_forehand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 175,
+        "label": "near_middle_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 196,
+        "label": "far_right_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 251,
+        "label": "near_right_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 291,
+        "label": "far_right_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 342,
+        "label": "near_middle_forehand_top_smash_straight-long_in"
+      },
+      {
+        "frame": 382,
+        "label": "far_middle_forehand_bottom_chop_straight-long_in"
+      },
+      {
+        "frame": 404,
+        "label": "near_middle_forehand_top_smash_straight-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_qualifies_for_round_of_16_in_women's_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_56_153",
+    "fps": 25,
+    "num_frames": 97,
+    "events": [
+      {
+        "frame": 8,
+        "label": "far_right_forehand_top_serve_straight-short_in"
+      },
+      {
+        "frame": 25,
+        "label": "near_right_forehand_bottom_chop_straight-long_in"
+      },
+      {
+        "frame": 40,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 52,
+        "label": "near_left_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 63,
+        "label": "far_right_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 77,
+        "label": "near_left_backhand_top_push_straight-long_in"
+      }
+    ]
+  },
+  {
+    "video": "Women's_Singles_Table_Tennis_Final___Paris_Champions_-_Olympics_(720p60,_h264,_youtube)_1925_2258",
+    "fps": 60,
+    "num_frames": 333,
+    "events": [
+      {
+        "frame": 8,
+        "label": "near_left_forehand_bottom_serve_straight-short_in"
+      },
+      {
+        "frame": 53,
+        "label": "far_middle_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 103,
+        "label": "near_right_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 128,
+        "label": "far_left_forehand_top_drive_straight-long_in"
+      },
+      {
+        "frame": 149,
+        "label": "near_middle_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 214,
+        "label": "far_left_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 249,
+        "label": "near_left_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 294,
+        "label": "far_right_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 318,
+        "label": "near_left_backhand_top_push_straight-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_qualifies_for_round_of_16_in_women's_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_2774_2846",
+    "fps": 25,
+    "num_frames": 72,
+    "events": [
+      {
+        "frame": 9,
+        "label": "near_left_forehand_bottom_serve_straight-short_in"
+      },
+      {
+        "frame": 26,
+        "label": "far_left_forehand_bottom_chop_diagonal-short_in"
+      },
+      {
+        "frame": 39,
+        "label": "near_right_forehand_bottom_chop_straight-long_in"
+      },
+      {
+        "frame": 56,
+        "label": "far_middle_forehand_top_smash_diagonal-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "INSANE_table_tennis_winners_at_#Paris2024_-_Olympics_(720p50,_h264,_youtube)_113_480",
+    "fps": 50,
+    "num_frames": 367,
+    "events": [
+      {
+        "frame": 2,
+        "label": "near_left_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 43,
+        "label": "far_right_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 65,
+        "label": "near_left_backhand_top_push_straight-long_in"
+      },
+      {
+        "frame": 93,
+        "label": "far_left_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 146,
+        "label": "far_left_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 175,
+        "label": "near_right_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 203,
+        "label": "far_left_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 257,
+        "label": "far_left_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 287,
+        "label": "near_right_forehand_top_drive_straight-long_in"
+      },
+      {
+        "frame": 316,
+        "label": "far_middle_forehand_top_push_straight-long_in"
+      },
+      {
+        "frame": 349,
+        "label": "near_middle_forehand_top_push_diagonal-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_qualifies_for_round_of_16_in_women's_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_958_1052",
+    "fps": 25,
+    "num_frames": 94,
+    "events": [
+      {
+        "frame": 9,
+        "label": "near_left_forehand_bottom_serve_diagonal-long_in"
+      },
+      {
+        "frame": 25,
+        "label": "far_right_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 34,
+        "label": "near_left_backhand_top_block_straight-long_in"
+      },
+      {
+        "frame": 54,
+        "label": "far_left_forehand_top_push_straight-short_in"
+      },
+      {
+        "frame": 78,
+        "label": "near_left_forehand_top_smash_diagonal-long_in"
+      }
+    ]
+  },
+  {
+    "video": "Men's_Singles_Table_Tennis_Final___Paris_Champions_-_Olympics_(720p60,_h264,_youtube)_1288_1627",
+    "fps": 60,
+    "num_frames": 339,
+    "events": [
+      {
+        "frame": 3,
+        "label": "far_right_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 33,
+        "label": "near_left_forehand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 83,
+        "label": "far_middle_backhand_top_drive_straight-long_in"
+      },
+      {
+        "frame": 118,
+        "label": "near_middle_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 138,
+        "label": "far_right_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 167,
+        "label": "near_left_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 202,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 226,
+        "label": "near_left_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 261,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 291,
+        "label": "near_left_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 324,
+        "label": "far_middle_forehand_top_smash_straight-long_out"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_qualifies_for_round_of_16_in_women's_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)_3241_3428",
+    "fps": 25,
+    "num_frames": 187,
+    "events": [
+      {
+        "frame": 4,
+        "label": "near_left_forehand_side_serve_diagonal-short_in"
+      },
+      {
+        "frame": 22,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 33,
+        "label": "near_left_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 53,
+        "label": "far_right_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 66,
+        "label": "near_left_backhand_top_block_straight-long_in"
+      },
+      {
+        "frame": 85,
+        "label": "far_left_forehand_top_push_straight-long_in"
+      },
+      {
+        "frame": 100,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 114,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 129,
+        "label": "near_middle_backhand_top_drive_diagonal-short_in"
+      },
+      {
+        "frame": 144,
+        "label": "far_middle_backhand_bottom_chop_diagonal-long_in"
+      },
+      {
+        "frame": 163,
+        "label": "near_left_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 170,
+        "label": "far_right_backhand_top_block_straight-long_out"
+      }
+    ]
+  },
+  {
+    "video": "INSANE_table_tennis_winners_at_#Paris2024_-_Olympics_(720p50,_h264,_youtube)_1476_1826",
+    "fps": 50,
+    "num_frames": 350,
+    "events": [
+      {
+        "frame": 9,
+        "label": "near_left_forehand_bottom_serve_straight-long_in"
+      },
+      {
+        "frame": 52,
+        "label": "far_left_backhand_bottom_chop_straight-long_in"
+      },
+      {
+        "frame": 86,
+        "label": "near_left_forehand_top_drive_straight-long_in"
+      },
+      {
+        "frame": 112,
+        "label": "far_left_backhand_top_push_straight-long_in"
+      },
+      {
+        "frame": 133,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 158,
+        "label": "far_right_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 175,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 202,
+        "label": "far_right_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 222,
+        "label": "near_middle_backhand_top_push_straight-long_in"
+      },
+      {
+        "frame": 265,
+        "label": "far_middle_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 285,
+        "label": "near_right_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 312,
+        "label": "far_middle_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 335,
+        "label": "near_right_forehand_top_block_straight-long_out"
+      }
+    ]
+  },
+  {
+    "video": "Sreeja_Akula_qualifies_for_round_of_16_in_women's_table_tennis___Paris_2024_highlights_-_Olympics_(720p,_h264,_youtube)v",
+    "fps": 25,
+    "num_frames": 77,
+    "events": [
+      {
+        "frame": 4,
+        "label": "near_left_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 16,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 27,
+        "label": "near_left_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 45,
+        "label": "far_right_forehand_top_smash_diagonal-long_in"
+      },
+      {
+        "frame": 57,
+        "label": "near_left_backhand_top_push_straight-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "INSANE_table_tennis_winners_at_#Paris2024_-_Olympics_(720p50,_h264,_youtube)_957_1039",
+    "fps": 50,
+    "num_frames": 82,
+    "events": [
+      {
+        "frame": 9,
+        "label": "near_left_forehand_side_serve_straight-long_in"
+      },
+      {
+        "frame": 43,
+        "label": "far_left_forehand_bottom_chop_straight-long_in"
+      },
+      {
+        "frame": 72,
+        "label": "near_left_backhand_top_drive_diagonal-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Men's_Singles_Table_Tennis_Final___Paris_Champions_-_Olympics_(720p60,_h264,_youtube)_7355_7401",
+    "fps": 60,
+    "num_frames": 46,
+    "events": [
+      {
+        "frame": 8,
+        "label": "near_left_forehand_side_serve_diagonal-long_in"
+      },
+      {
+        "frame": 33,
+        "label": "far_right_backhand_top_drive_straight-long_winner"
+      }
+    ]
+  },
+  {
+    "video": "Women's_Singles_Table_Tennis_Final___Paris_Champions_-_Olympics_(720p60,_h264,_youtube)_4132_4796",
+    "fps": 60,
+    "num_frames": 664,
+    "events": [
+      {
+        "frame": 5,
+        "label": "near_left_forehand_bottom_serve_straight-short_in"
+      },
+      {
+        "frame": 45,
+        "label": "far_left_forehand_bottom_chop_straight-long_in"
+      },
+      {
+        "frame": 77,
+        "label": "near_middle_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 307,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 332,
+        "label": "near_left_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 347,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 372,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 397,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 417,
+        "label": "near_left_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 442,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 467,
+        "label": "near_middle_backhand_top_drive_straight-long_in"
+      },
+      {
+        "frame": 495,
+        "label": "far_middle_forehand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 516,
+        "label": "near_left_backhand_top_block_diagonal-long_in"
+      },
+      {
+        "frame": 541,
+        "label": "far_right_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 566,
+        "label": "near_middle_forehand_top_drive_straight-long_in"
+      },
+      {
+        "frame": 591,
+        "label": "far_left_forehand_top_drive_straight-long_in"
+      },
+      {
+        "frame": 606,
+        "label": "near_left_backhand_top_push_diagonal-long_in"
+      },
+      {
+        "frame": 636,
+        "label": "far_right_backhand_top_drive_diagonal-long_in"
+      },
+      {
+        "frame": 651,
+        "label": "near_left_backhand_top_drive_diagonal-long_in"
+      }
+    ]
+  }
+]
